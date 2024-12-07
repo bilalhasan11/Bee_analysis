@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bee_analysis/static/css/main.e6c13ad2.css",
+    "main.js": "/bee_analysis/static/js/main.3b120548.js",
+    "static/js/453.7ae6d391.chunk.js": "/bee_analysis/static/js/453.7ae6d391.chunk.js",
+    "static/media/tbackground.jpg": "/bee_analysis/static/media/tbackground.f2aabb3c8c5fbf4e2d04.jpg",
+    "static/media/beegif.gif": "/bee_analysis/static/media/beegif.7e30e6e0c72598f30c09.gif",
+    "static/media/beelogo.png": "/bee_analysis/static/media/beelogo.8f8a4026a68d07680fff.png",
+    "static/media/page-background.jpg": "/bee_analysis/static/media/page-background.9bc496cd023042466702.jpg",
+    "static/media/image1.jfif": "/bee_analysis/static/media/image1.f2fa5524bad1aa366093.jfif",
+    "index.html": "/bee_analysis/index.html",
+    "main.e6c13ad2.css.map": "/bee_analysis/static/css/main.e6c13ad2.css.map",
+    "main.3b120548.js.map": "/bee_analysis/static/js/main.3b120548.js.map",
+    "453.7ae6d391.chunk.js.map": "/bee_analysis/static/js/453.7ae6d391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b120548.js"
+  ]
+}
